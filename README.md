@@ -1,4 +1,4 @@
-![logo](https://github.com/bhagyeshpatekar/bhagyeshpatekar/blob/main/Software.png)
+
 <h1 align="center">Hi 👋, I'm Bhagyesh Patekar</h1>
 <h3 align="center">A passionate Software Engineer from Mumbai,Maharashtra</h3>
 
